@@ -3,7 +3,7 @@ class Solution {
         int[] a = new int[n];
         int[] b =new int[n];
         int c=0;
-        int d=n;
+    
         int k=0;
         int m=1;
         int[] arr =new int[nums.length];
