@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariHarishwar/leetcode_solution/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/HariHarishwar/leetcode_solution/tree/master/0035-search-insert-position) |
 | [1580-shuffle-the-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/HariHarishwar/leetcode_solution/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/2058-concatenation-of-array) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/HariHarishwar/leetcode_solution/tree/master/1791-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/HariHarishwar/leetcode_solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
