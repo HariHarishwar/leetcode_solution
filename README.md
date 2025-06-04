@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariHarishwar/leetcode_solution/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariHarishwar/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1580-shuffle-the-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/1580-shuffle-the-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariHarishwar/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
