@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariHarishwar/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/HariHarishwar/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HariHarishwar/leetcode_solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/1580-shuffle-the-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariHarishwar/leetcode_solution/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/HariHarishwar/leetcode_solution/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/HariHarishwar/leetcode_solution/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
