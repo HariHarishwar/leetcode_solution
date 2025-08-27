@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HariHarishwar/leetcode_solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariHarishwar/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/HariHarishwar/leetcode_solution/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/HariHarishwar/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HariHarishwar/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HariHarishwar/leetcode_solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HariHarishwar/leetcode_solution/tree/master/0217-contains-duplicate) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HariHarishwar/leetcode_solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HariHarishwar/leetcode_solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
